@@ -71,9 +71,9 @@ export const projectsData = [
       "Enabled emergency search for rapid donor discovery."
     ],
     techStack: ["Flutter", "Firebase", "Cloud Firestore", "Dart"],
-    githubUrl: "https://github.com/veenothay078-sys/Plasma-Bank-Management-System",
+    githubUrl: "https://github.com/veenothay078-sys/plasmax",
     demoUrl: null,
-    repoName: "Plasma-Bank-Management-System",
+    repoName: "plasmax",
     featured: true,
     accentColor: "var(--accent-cyan)"
   },
@@ -101,10 +101,10 @@ export const projectsData = [
 // Verified Public Repositories from GitHub Profile (https://github.com/veenothay078-sys)
 export const verifiedGithubRepos = [
   {
-    name: "Plasma-Bank-Management-System",
-    url: "https://github.com/veenothay078-sys/Plasma-Bank-Management-System",
-    description: "The Plasma Donation Management System is a digital platform that connects plasma donors, patients, and hospitals. Donors can register their details, and patients can easily search for suitable donors.",
-    language: "Flutter / Dart",
+    name: "plasmax",
+    url: "https://github.com/veenothay078-sys/plasmax",
+    description: "Plasma donation management system and core application repository.",
+    language: "C++ / Systems",
     badge: "Featured Project"
   },
   {
@@ -154,13 +154,6 @@ export const verifiedGithubRepos = [
     url: "https://github.com/veenothay078-sys/AI-Resume-Analyzer-Skill-Matcher",
     description: "Python-based resume text analysis and skill-matching tool.",
     language: "Python",
-    badge: "Verified Repo"
-  },
-  {
-    name: "plasmax",
-    url: "https://github.com/veenothay078-sys/plasmax",
-    description: "Core algorithms and system implementation in C++.",
-    language: "C++",
     badge: "Verified Repo"
   }
 ];
